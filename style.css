@@ -306,14 +306,15 @@ h3.notion-heading {
 .notion-collection-gallery.large .notion-collection-card .notion-collection-card__content::before {
     content: "추천" !important;
     padding: 4px 8px !important;
-    font-size: 0.875rem !important;
     color: white;
-    background: #fecd75 !important;
+    font-size: 1rem !important;
+    font-weight: bold;
+    background: #ffcd5b !important;
     border-radius: 50px !important;
     display: inline-block !important;
-    margin-bottom: 16px !important;
+    margin-bottom: 10px !important;
     width: fit-content !important;
-    border: 1px solid #ffb214 !important;
+    border: 2px solid #ffaa00 !important;
 }
 
 .notion-collection-gallery.large .notion-collection-card .notion-pill {
